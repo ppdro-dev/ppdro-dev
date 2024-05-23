@@ -1,0 +1,26 @@
+## Hi there, I'm Pedro 👋
+
+### About
+
+I am a beginner data analyst with a strong interest in using data to solve problems and make informed decisions.
+
+### Goals
+ - Gain hands-on experience in data analysis
+ - Contribute to a team and learn from experienced data analysts
+ - Develop my skills and knowledge in data analysis
+ - Apply my skills to make a positive impact on an organization
+
+<!--
+**ppdro-dev/ppdro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
