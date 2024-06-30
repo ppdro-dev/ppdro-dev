@@ -1,4 +1,4 @@
-## Hi there, I'm Samira 👋
+## Hi there, I'm Pedro 👋
 
 ### About
 
